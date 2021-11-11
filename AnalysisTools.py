@@ -19,23 +19,81 @@ def app():
              go into the pros and cons of each...that is for you to decide on. You may be limited
              by budget, technological ability, staff count, time and so forth.
              """)
+             
+    # Line break
+    st.write("""
+             """)
     
-    ### Header - Current Ranking System
+    # Body text
     st.write("""
              ##### NacSport
+             * This post outlines the different resources and features of NacSport:
+             https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis
              """)
-             
     
+    # Line break
+    st.write("""
+             """)
+    
+    # Body text
     st.write("""
              ##### SportsCode
+             * https://www.hudl.com/en_gb/products/hudlsportscode
+             """)
+    
+    # Line break
+    st.write("""
              """)
              
-             
+    # Body text
     st.write("""
              ##### Dartfish
+             * http://www.dartfish.com/
              """)
              
-    
+    # Line break
+    st.write("""
+             """)
+             
+    # Body text
     st.write("""
              ##### CoachLogic
+             * https://www.coach-logic.com/
              """)
+             
+    # Line break
+    st.write("""
+             """)
+            
+    # Body text
+    st.write("""
+             ##### LongoMatch
+             * https://longomatch.com/en/
+             """)
+             
+    # Line break
+    st.write("""
+             """)
+    
+    # Body text
+    st.write("""
+             ##### PerformaSports
+             * This post outlines the different resources and features of performasports:
+             https://www.performasports.com/sports/gaelic-football-performance-analysis
+             """)
+             
+    # Line break
+    st.write("""
+             """)
+    
+    # Body text
+    st.write("""
+             ##### Avenir Sports
+             * This post outlines the different resources and features of Avenir Sports:
+             https://avenirsports.ie/gaelic-football-performance-analysis-software-gaelic-football-video-analysis-software/
+             """)
+             
+    # Line break
+    st.write("""
+             """)
+             
