@@ -11,6 +11,7 @@ import Accreditation
 import BlogPost
 import AcademicResearch
 import Conferences
+import Videos
 import AnalysisTools
 import Visualisation
 import Metrics
@@ -24,6 +25,7 @@ PAGES = {
     "Blog Post": BlogPost,
     "Academic Research": AcademicResearch,
     "Conferences": Conferences,
+    "Videos": Videos,
     "Analysis Tools": AnalysisTools,
     "Data Visualisation": Visualisation,
     "Metrics": Metrics,
