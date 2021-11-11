@@ -12,7 +12,11 @@ def app():
     st.write('A page to find different metrics used in practice')
     
     st.write("""
+             ### Productivity in Gaelic Football
              
+             * This metric was developed by Ben McGuckin and Kevin McGuigan. It is a method
+             of measuring possession effectiveness. The presentation can be found via this link: 
+            https://www.dropbox.com/s/ykauoerieiqqaii/Productivity%20in%20Gaelic%20football.pptx?dl=0
              
              
              """)
