@@ -18,5 +18,8 @@ def app():
              of measuring possession effectiveness. The presentation can be found via this link: 
             https://www.dropbox.com/s/ykauoerieiqqaii/Productivity%20in%20Gaelic%20football.pptx?dl=0
              
-             
+            Furthermore, the following video is a great example of how to bring the 'Productivity'
+            score into a Nacsport dashboard.
+            
+            * https://www.youtube.com/watch?v=Y5aXAi6jRlc&ab_channel=AnalysisPro
              """)
