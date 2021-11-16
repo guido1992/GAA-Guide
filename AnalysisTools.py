@@ -96,4 +96,17 @@ def app():
     # Line break
     st.write("""
              """)
+    
+    # Body text
+    st.write("""
+             ##### GamseSense Coaching
+             * From what I understand not directly an 'analysis' tool like the above mentioned
+               yet still a very handy tool for coaches as they offer a variety of games and 
+               session builders.
+               https://gamesensecoaching.com/
+             """)
+             
+    # Line break
+    st.write("""
+             """)
              
