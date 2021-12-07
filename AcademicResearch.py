@@ -75,6 +75,11 @@ def app():
              """)
     # Body text
     st.write("""
+             ##### How do situational variables, related to shooting, in elite Gaelic football impact shot success?
+             * https://journals.sagepub.com/doi/10.1177/17479541211055441
+             """)
+    # Body text
+    st.write("""
              ##### The Effects of the Gaelic Athletic Association 15 Training Program on Neuromuscular Outcomes in Gaelic Football and Hurling Players: A Randomized Cluster Trial
              * https://journals.lww.com/nsca-jscr/FullText/2017/08000/The_Effects_of_the_Gaelic_Athletic_Association_15.9.aspx
              """)

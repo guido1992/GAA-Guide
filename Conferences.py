@@ -14,7 +14,9 @@ def app():
     st.write("""
              ### 2021 GAA Performance Analysis Seminar
              
-             The 2021 seminar takes place in Carlow IT on Saturday, November 20th, 2021.
+             The 2021 seminar which was due to take place in Carlow IT on Saturday, November 20th,
+             2021 has now been postponed to some time in January 2022. Depending on the situation,
+             it may again be re-scheduled. It is best to keep up to date at the link below.
              
              'The purpose of the seminar is to recognise and certify the latest cohort of GAA 
              accredited performance analysts as well to:

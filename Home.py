@@ -13,8 +13,6 @@ def app():
     
     st.write("""
              
-             ** *This application is still in development* **
-             
              The GAA analysis space has grown widely in the last 5 years. This application seeks
              to be an 'Analysis Guide' for any newcomer or existing analyst within the GAA. It
              aims to help collate all existing research, tools, accreditation processes, data
@@ -23,10 +21,10 @@ def app():
              coaching and player learning experience and performance.
              
              Please feel free to contact me as I design and update this guide throughout the
-             years to come. If you would like to contribute some of your existing research, a new
-             tool you have found, an analyst experience, a blog post, a new metric or whatever
-             else, please do reach out to me at EMAIL ADDRESS and I will add it to the relevant
-             page.
+             years to come. If you would like to contribute some of your existing research, a 
+             new tool you have found, an analyst experience, a blog post, a new metric or
+             whatever else, please do reach out to me at rathkealex@gmail.com and I will add it
+             to the relevant page.
              
              I hope you find this guide useful and I look forward to hearing any suggestions you
              may have.
@@ -36,5 +34,7 @@ def app():
              
              The link can be found here: https://bit.ly/3n3TPwG    
              """)
+             
+             ##** *This application is still in development* **
              
              
