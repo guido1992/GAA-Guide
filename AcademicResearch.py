@@ -75,6 +75,11 @@ def app():
              """)
     # Body text
     st.write("""
+             ##### Benchmarking successful performances in elite Ladies Gaelic football
+             * https://www.tandfonline.com/doi/abs/10.1080/24748668.2021.2020031?forwardService=showFullText&tokenAccess=SSWWEYZWE8CAXBGURVKF&tokenDomain=eprints&doi=10.1080%2F24748668.2021.2020031&doi=10.1080%2F24748668.2021.2020031&doi=10.1080%2F24748668.2021.2020031&target=10.1080%2F24748668.2021.2020031&journalCode=rpan20
+             """)
+    # Body text
+    st.write("""
              ##### How do situational variables, related to shooting, in elite Gaelic football impact shot success?
              * https://journals.sagepub.com/doi/10.1177/17479541211055441
              """)
