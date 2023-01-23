@@ -20,16 +20,16 @@ import Influencers
 import streamlit as st
 
 PAGES = {
-    "Home": Home,
-    "Accreditation": Accreditation,
-    "Blog Post": BlogPost,
-    "Academic Research": AcademicResearch,
-    "Conferences": Conferences,
-    "Videos": Videos,
-    "Analysis Tools": AnalysisTools,
-    "Data Visualisation": Visualisation,
-    "Metrics": Metrics,
-    "Influencers": Influencers
+    "🏠 Home": Home,
+    "📜 Accreditation": Accreditation,
+    "🏐 Blog Post": BlogPost,
+    "🎓 Academic Research": AcademicResearch,
+    "🎟️ Conferences": Conferences,
+    "🏐 Videos": Videos,
+    "💻 Video Analysis Tools": AnalysisTools,
+    "📈 Data Visualisation": Visualisation,
+    "📊 Metrics": Metrics,
+    "🙌 Influencers": Influencers
 }
 st.sidebar.title('Navigation')
 selection = st.sidebar.radio("Go to for page for specific topic",

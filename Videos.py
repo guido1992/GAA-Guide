@@ -8,8 +8,8 @@ Created on Thu Nov 11 22:00:45 2021
 # Videos.py
 import streamlit as st
 def app():
-    st.title('Video Presentations')
-    st.write('A page to find the latest video presentations on GAA analysis research & topics')
+    st.title('🏐 Video Presentations')
+    st.write('A page to find the latest video presentations on GAA analysis research')
     
     # Line break
     st.write("""
@@ -24,6 +24,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
     
     # Body text
@@ -34,6 +35,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
     
     # Body text
@@ -44,6 +46,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
     
     # Body text
@@ -54,6 +57,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
              
     # Body text
@@ -64,6 +68,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
     
     # Body text
@@ -74,6 +79,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
              
     # Body text
@@ -84,6 +90,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
     
     # Body text
@@ -94,6 +101,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
              
     # Body text
@@ -104,6 +112,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
              
     # Body text
@@ -114,6 +123,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
     
     # Body text
@@ -124,6 +134,7 @@ def app():
              
     # Line break
     st.write("""
+             -------------------------------------------------------------------
              """)
              
              

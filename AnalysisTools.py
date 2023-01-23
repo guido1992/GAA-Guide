@@ -8,18 +8,31 @@ Created on Wed Nov 10 18:09:11 2021
 # Tools.py
 import streamlit as st
 def app():
-    st.title('Analysis Tools')
-    st.write('A page to find a variety of analysis tools used for practice')
+    st.title('💻 Video Analysis Tools')
+    st.write('A page listing all the major technologies/analysis tools used.')
     
     st.write("""
-             There are numerous tools to use for any analysis process. Sometimes even a good old
-             fashioned pen and paper system may do - I am certainly not joking. Anyways, below
-             I have made a list of a few analysis software tools that I have used in the past. All
-             of the tools listed below do more or less the exact same job and therefore Iwill not
-             go into the pros and cons of each...that is for you to decide on. You may be limited
-             by budget, technological ability, staff count, time and so forth.
+             There are numerous tools to use for any analysis process. Sometimes even a good
+             old fashioned pen and paper system may do - I am certainly not joking. Moving 
+             along swiftly (as the industry does as well), below I have made a list of analysis
+             software tools that I have used in the past. All of the tools listed below do 
+             more or less the exact same job and therefore I will not dwelve into the pros and
+             cons of each...that is for you and the coaching staff (as part of your process) to
+             decide upon. 
+             
+             Other factors you may want to consider - budget, technological ability, staff 
+             count, time and what sort of return you want.
              """)
              
+    # Line break
+    st.write("""
+             """)
+             
+    # Sub-header
+    st.subheader("""
+                 Video Software
+                 """)
+                 
     # Line break
     st.write("""
              """)

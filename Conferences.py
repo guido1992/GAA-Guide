@@ -8,25 +8,22 @@ Created on Wed Nov 10 18:08:06 2021
 # Conferences.py
 import streamlit as st
 def app():
-    st.title('GAA Analysis Conferences')
-    st.write('A page to find the latest information on GAA analysis conferences')
+    st.title('🎟️ Analysis Conferences')
     
     st.write("""
-             ### 2021 GAA Performance Analysis Seminar
+             ### GAA Performance Analysis Seminar
              
-             The 2021 seminar which was due to take place in Carlow IT on Saturday, November 20th,
-             2021 has now been postponed to some time in January 2022. Depending on the situation,
-             it may again be re-scheduled. It is best to keep up to date at the link below.
+             Analysis has become an important factor in today's game and the GAA have started
+             to recognise that.
              
-             'The purpose of the seminar is to recognise and certify the latest cohort of GAA 
-             accredited performance analysts as well to:
-             * Provide an opportunity for GAA analysts to share practice and learn from each other
-             * To foster a culture of continuous support within the community of GAA analysts and 
-             beyond'
+             A yearly conference is held, normally around November time. The purpose as
+             mentioned by the GAA is:
+                 
+            "to recognise and certify the latest cohort of GAA accredited performance analysts
+            as well as to:
+             * **Provide an opportunity for GAA analysts to share practice and learn from each other**
+             * **To foster a culture of continuous support within the community of GAA analysts and beyond**
              
-             To book your place, please click the following link.
-             
-             https://eventgen.ie/gaa-performance-analysis-seminar-2021
-             
+             Please visit the **Accreditation** tab for more information.
              
              """)
