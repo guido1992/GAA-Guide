@@ -38,7 +38,7 @@ def app():
              """)
     
     # Body text
-    st.write("NacSport [link](https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis)")
+    st.write("**[NacSport]** (https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis)")
              ##### NacSport
                           
              #* This post outlines the different resources and features of NacSport:
