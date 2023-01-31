@@ -38,11 +38,12 @@ def app():
              """)
     
     # Body text
-    st.write("""
+    st.write("NacSport [link](https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis)")
              ##### NacSport
-             * This post outlines the different resources and features of NacSport:
-             https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis
-             """)
+                          
+             #* This post outlines the different resources and features of NacSport:
+             #https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis
+             #""")
     
     # Line break
     st.write("""
@@ -110,6 +111,17 @@ def app():
     st.write("""
              """)
     
+    # Body text
+    st.write("""
+             ##### XXXX
+             * 
+             https://tagger.teamoppy.com/
+             """)
+             
+    # Line break
+    st.write("""
+             """)
+             
     # Body text
     st.write("""
              ##### GamseSense Coaching
