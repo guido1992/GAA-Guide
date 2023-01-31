@@ -38,12 +38,9 @@ def app():
              """)
     
     # Body text
-    st.write(" - [NacSport](https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis)")
-             ##### NacSport
-                          
-             #* This post outlines the different resources and features of NacSport:
-             #https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis
-             #""")
+    ##### NacSport
+    st.write(" [NacSport](https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis)")
+    st.write("* This post outlines the different resources and features of NacSport.")
     
     # Line break
     st.write("""
