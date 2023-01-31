@@ -31,11 +31,6 @@ def app():
              I hope you find this guide useful and I look forward to hearing any suggestions you
              may have.
              
-             A special shout out has to be given to Praneel Nihar, who's template I used in
-             creating the layout for this application. 
-             
-             The link can be found here: https://bit.ly/3n3TPwG
-             
              ** *Please note this application is constantly being updated* **
              """)
              
