@@ -39,94 +39,63 @@ def app():
     
     # Body text
     ##### NacSport
-    st.write(" [NacSport](https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis) - This post outlines the different resources and features of NacSport.")
-    st.write("This post outlines the different resources and features of NacSport.")
+    st.write(" [NacSport](https://www.nacsport.com/blog/en-gb/Tips/gaa-video-analysis)")
     
     # Line break
     st.write("""
              """)
     
     # Body text
-    st.write("""
-             ##### SportsCode
-             * https://www.hudl.com/en_gb/products/hudlsportscode
-             """)
+    ### SportsCode
+    st.write(" [SportsCode](https://www.hudl.com/en_gb/products/hudlsportscode)")
     
     # Line break
     st.write("""
              """)
              
     # Body text
-    st.write("""
-             ##### Dartfish
-             * http://www.dartfish.com/
-             """)
+    ### Dartfish
+    st.write(" [Dartfish](http://www.dartfish.com/)")
              
     # Line break
     st.write("""
              """)
              
     # Body text
-    st.write("""
-             ##### CoachLogic
-             * https://www.coach-logic.com/
-             """)
-             
-    # Line break
-    st.write("""
-             """)
-            
-    # Body text
-    st.write("""
-             ##### LongoMatch
-             * https://longomatch.com/en/
-             """)
-             
-    # Line break
-    st.write("""
-             """)
-    
-    # Body text
-    st.write("""
-             ##### PerformaSports
-             * This post outlines the different resources and features of performasports:
-             https://www.performasports.com/sports/gaelic-football-performance-analysis
-             """)
-             
-    # Line break
-    st.write("""
-             """)
-    
-    # Body text
-    st.write("""
-             ##### Avenir Sports
-             * This post outlines the different resources and features of Avenir Sports:
-             https://avenirsports.ie/gaelic-football-performance-analysis-software-gaelic-football-video-analysis-software/
-             """)
-             
-    # Line break
-    st.write("""
-             """)
-    
-    # Body text
-    st.write("""
-             ##### XXXX
-             * 
-             https://tagger.teamoppy.com/
-             """)
+    ### CoachLogic
+    st.write(" [CoachLogic](https://www.coach-logic.com/)")
              
     # Line break
     st.write("""
              """)
              
     # Body text
+    ### LongoMatch
+    st.write(" [CoachLogic](https://longomatch.com/en/)")
+             
+    # Line break
     st.write("""
-             ##### GamseSense Coaching
-             * From what I understand not directly an 'analysis' tool like the above mentioned
-               yet still a very handy tool for coaches as they offer a variety of games and 
-               session builders.
-               https://gamesensecoaching.com/
              """)
+             
+    # Body text
+    ### LongoMatch
+    st.write(" [PerformaSports](https://www.performasports.com/sports/gaelic-football-performance-analysis)")
+             
+    # Line break
+    st.write("""
+             """)
+             
+    # Body text
+    ### Avenir Sports
+    st.write(" [Avenir Sports](https://avenirsports.ie/gaelic-football-performance-analysis-software-gaelic-football-video-analysis-software/)")
+                     
+    # Line break
+    st.write("""
+             """)
+             
+    # Body text
+    ### TeamOppy
+    st.write(" [TeamOppy](https://tagger.teamoppy.com/)")
              
     # Line break
     st.write("""
